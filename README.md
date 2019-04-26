@@ -1,0 +1,2 @@
+# LCDWIKI_SPI
+An SPI display library for LCD panels using ILI9325, ILI9328, ILI9341, HX8357D, HX8347G, HX8347I, ILI9486, ST7735S, or SSD1283A controllers
